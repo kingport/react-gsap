@@ -1,0 +1,45 @@
+body {
+  margin: 10px;
+}
+.demo {
+  width: 100%;
+}
+.box-size {
+  width: 100px;
+  height: 100px;
+  display: block;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  display: block;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.green {
+  background-color: green;
+}
+.orange {
+  background-color: orange;
+}
+.grey {
+  background-color: grey;
+}
+
+
+/* demo2 style */
+.demo2-box {
+  width: 100px;
+  height: 100px;
+  display: block;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.nav {
+  padding-top: 30px;
+}
+
+/* demo3 style */
